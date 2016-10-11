@@ -2,8 +2,8 @@ title:  Data Institute 2016
 description: Remote Sensing and Reproducible, Open Science
 
 # Comment out url when working locally to resolve base urls correctly
-url:    http://lwasser.github.io/neon-data-institute-2016
-baseurl: http://lwasser.github.io/neon-data-institute-2016
+url:    https://lwasser.github.io/neon-data-institute-2016
+baseurl: https://lwasser.github.io/neon-data-institute-2016
 
 # Uncomment the first localhost when working locally
 # url: http://localhost:4000
